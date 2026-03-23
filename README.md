@@ -2,7 +2,8 @@
 This project is for Identification of NMF by choosing maximum-volume basis vectors.
 
 ## Configuration instructions
-- nmf folder includes MATLAB code.
+- code folder includes MATLAB code.
+- data folder describes the data source.
 
 ## Installation instructions
 - Matlab R2024b
